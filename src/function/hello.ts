@@ -3,7 +3,6 @@ import {
   Inject,
   ServerlessTrigger,
   ServerlessTriggerType,
-  Query,
 } from '@midwayjs/decorator';
 import { Context } from '@midwayjs/faas';
 
